@@ -1,0 +1,79 @@
+.uProfil{
+
+    margin: auto;
+    margin-top: 25px;
+    background-image: url("tree.png");
+    background-size: 650px 800px;
+    background-origin: padding-box;
+    border: 1px solid burlywood;
+    width: 380px;
+    height: 580px;
+    text-align: center; 
+    font-size: 15px;
+    padding: 14px;
+    text-decoration: crimson;
+    box-shadow: 20px 10px 40px;
+    font-weight: bold;
+}
+
+#userNav{
+    
+    position: absolute;
+    right: 10px;
+    top: 104px;
+    width: 95px;
+    
+}
+
+#profilName{
+    
+left:20px;
+    
+    
+}
+
+#userCountry{
+    
+    height: 25px;
+    width: 90px;
+    left: 10px;
+
+}
+
+#userAge{
+
+    height: 25px;
+    width: 90px;
+
+}
+
+#userCity{
+
+    width: 110px;
+}
+
+#profilName{
+
+    width: 110px;
+
+}
+
+#LogOut{
+
+    color: black;
+    text-align: match-parent;
+
+}
+
+#dateBirth{
+
+    height: 20px;
+
+}
+
+#dateBirth2{
+
+    height: 20px;
+
+}
+
